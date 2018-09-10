@@ -6,7 +6,6 @@ public class PrimeFactor{
         getPrimeFactor(16);
         getPrimeFactor(26);
         getPrimeFactor(36);
-        getPrimeFactor(1207);
      }
      
      public static void getPrimeFactor(int num) {
