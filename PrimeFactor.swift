@@ -19,4 +19,3 @@ getPrimeFactor(num:6);
 getPrimeFactor(num:16);
 getPrimeFactor(num:26);
 getPrimeFactor(num:36);
-getPrimeFactor(num:1207);
